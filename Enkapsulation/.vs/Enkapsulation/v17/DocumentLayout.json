@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodeCraft\\Enkapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C56F5D0-05C3-4302-BC77-26D97F6054E2}|Enkapsulation\\Enkapsulation.csproj|d:\\codecraft\\enkapsulation\\enkapsulation\\uloha_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C56F5D0-05C3-4302-BC77-26D97F6054E2}|Enkapsulation\\Enkapsulation.csproj|solutionrelative:enkapsulation\\uloha_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C56F5D0-05C3-4302-BC77-26D97F6054E2}|Enkapsulation\\Enkapsulation.csproj|d:\\codecraft\\enkapsulation\\enkapsulation\\uloha_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C56F5D0-05C3-4302-BC77-26D97F6054E2}|Enkapsulation\\Enkapsulation.csproj|solutionrelative:enkapsulation\\uloha_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C56F5D0-05C3-4302-BC77-26D97F6054E2}|Enkapsulation\\Enkapsulation.csproj|d:\\codecraft\\enkapsulation\\enkapsulation\\druha_ukazka_protected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C56F5D0-05C3-4302-BC77-26D97F6054E2}|Enkapsulation\\Enkapsulation.csproj|solutionrelative:enkapsulation\\druha_ukazka_protected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C56F5D0-05C3-4302-BC77-26D97F6054E2}|Enkapsulation\\Enkapsulation.csproj|d:\\codecraft\\enkapsulation\\enkapsulation\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C56F5D0-05C3-4302-BC77-26D97F6054E2}|Enkapsulation\\Enkapsulation.csproj|solutionrelative:enkapsulation\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C56F5D0-05C3-4302-BC77-26D97F6054E2}|Enkapsulation\\Enkapsulation.csproj|d:\\codecraft\\enkapsulation\\enkapsulation\\prva_ukazka_private.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C56F5D0-05C3-4302-BC77-26D97F6054E2}|Enkapsulation\\Enkapsulation.csproj|solutionrelative:enkapsulation\\prva_ukazka_private.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C56F5D0-05C3-4302-BC77-26D97F6054E2}|Enkapsulation\\Enkapsulation.csproj|d:\\codecraft\\enkapsulation\\enkapsulation\\ukazka_tri_static.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C56F5D0-05C3-4302-BC77-26D97F6054E2}|Enkapsulation\\Enkapsulation.csproj|solutionrelative:enkapsulation\\ukazka_tri_static.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "uloha_2.cs",
+              "DocumentMoniker": "D:\\CodeCraft\\Enkapsulation\\Enkapsulation\\uloha_2.cs",
+              "RelativeDocumentMoniker": "Enkapsulation\\uloha_2.cs",
+              "ToolTip": "D:\\CodeCraft\\Enkapsulation\\Enkapsulation\\uloha_2.cs",
+              "RelativeToolTip": "Enkapsulation\\uloha_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:05:52.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "uloha_1.cs",
+              "DocumentMoniker": "D:\\CodeCraft\\Enkapsulation\\Enkapsulation\\uloha_1.cs",
+              "RelativeDocumentMoniker": "Enkapsulation\\uloha_1.cs",
+              "ToolTip": "D:\\CodeCraft\\Enkapsulation\\Enkapsulation\\uloha_1.cs",
+              "RelativeToolTip": "Enkapsulation\\uloha_1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwC8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:56:03.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ukazka_tri_static.cs",
+              "DocumentMoniker": "D:\\CodeCraft\\Enkapsulation\\Enkapsulation\\ukazka_tri_static.cs",
+              "RelativeDocumentMoniker": "Enkapsulation\\ukazka_tri_static.cs",
+              "ToolTip": "D:\\CodeCraft\\Enkapsulation\\Enkapsulation\\ukazka_tri_static.cs",
+              "RelativeToolTip": "Enkapsulation\\ukazka_tri_static.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:10:29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "druha_ukazka_protected.cs",
+              "DocumentMoniker": "D:\\CodeCraft\\Enkapsulation\\Enkapsulation\\druha_ukazka_protected.cs",
+              "RelativeDocumentMoniker": "Enkapsulation\\druha_ukazka_protected.cs",
+              "ToolTip": "D:\\CodeCraft\\Enkapsulation\\Enkapsulation\\druha_ukazka_protected.cs",
+              "RelativeToolTip": "Enkapsulation\\druha_ukazka_protected.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:57:38.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\CodeCraft\\Enkapsulation\\Enkapsulation\\Main.cs",
+              "RelativeDocumentMoniker": "Enkapsulation\\Main.cs",
+              "ToolTip": "D:\\CodeCraft\\Enkapsulation\\Enkapsulation\\Main.cs",
+              "RelativeToolTip": "Enkapsulation\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:19:30.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "prva_ukazka_private.cs",
+              "DocumentMoniker": "D:\\CodeCraft\\Enkapsulation\\Enkapsulation\\prva_ukazka_private.cs",
+              "RelativeDocumentMoniker": "Enkapsulation\\prva_ukazka_private.cs",
+              "ToolTip": "D:\\CodeCraft\\Enkapsulation\\Enkapsulation\\prva_ukazka_private.cs",
+              "RelativeToolTip": "Enkapsulation\\prva_ukazka_private.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T15:32:30.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

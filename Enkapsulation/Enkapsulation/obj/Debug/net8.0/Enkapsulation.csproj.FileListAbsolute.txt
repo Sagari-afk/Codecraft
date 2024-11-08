@@ -1,0 +1,14 @@
+D:\CodeCraft\Enkapsulation\Enkapsulation\bin\Debug\net8.0\Enkapsulation.exe
+D:\CodeCraft\Enkapsulation\Enkapsulation\bin\Debug\net8.0\Enkapsulation.deps.json
+D:\CodeCraft\Enkapsulation\Enkapsulation\bin\Debug\net8.0\Enkapsulation.runtimeconfig.json
+D:\CodeCraft\Enkapsulation\Enkapsulation\bin\Debug\net8.0\Enkapsulation.dll
+D:\CodeCraft\Enkapsulation\Enkapsulation\bin\Debug\net8.0\Enkapsulation.pdb
+D:\CodeCraft\Enkapsulation\Enkapsulation\obj\Debug\net8.0\Enkapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeCraft\Enkapsulation\Enkapsulation\obj\Debug\net8.0\Enkapsulation.AssemblyInfoInputs.cache
+D:\CodeCraft\Enkapsulation\Enkapsulation\obj\Debug\net8.0\Enkapsulation.AssemblyInfo.cs
+D:\CodeCraft\Enkapsulation\Enkapsulation\obj\Debug\net8.0\Enkapsulation.csproj.CoreCompileInputs.cache
+D:\CodeCraft\Enkapsulation\Enkapsulation\obj\Debug\net8.0\Enkapsulation.dll
+D:\CodeCraft\Enkapsulation\Enkapsulation\obj\Debug\net8.0\refint\Enkapsulation.dll
+D:\CodeCraft\Enkapsulation\Enkapsulation\obj\Debug\net8.0\Enkapsulation.pdb
+D:\CodeCraft\Enkapsulation\Enkapsulation\obj\Debug\net8.0\Enkapsulation.genruntimeconfig.cache
+D:\CodeCraft\Enkapsulation\Enkapsulation\obj\Debug\net8.0\ref\Enkapsulation.dll
